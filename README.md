@@ -73,3 +73,21 @@
         $   npm run dev
         $   npm run build
     ```
+
+---
+
+### Step-by-step:
+
+1. **Delete everything starting from** `<<<<<<< HEAD` **to** `>>>>>>> b5a143a (Initial commit)` — including those lines.
+2. Keep only the full Laravel setup as shown above.
+3. Save the file.
+
+---
+
+### After fixing the conflict:
+
+Run this in your terminal:
+
+```bash
+git add README.md
+git rebase --continue
