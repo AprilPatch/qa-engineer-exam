@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### System Specifications
 
 | Requirements | Versions |
@@ -91,3 +92,12 @@ Run this in your terminal:
 ```bash
 git add README.md
 git rebase --continue
+=======
+# qa-engineer-exam
+This repository contains the files for my QA Engineer exam project. It includes all the necessary components to set up and run the project. Please follow the installation instructions below to get everything up and running on your local machine.
+## Installation
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/qa-engineer-exam.git
+>>>>>>> 76a15d8 (Update README.md)
